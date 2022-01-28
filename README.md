@@ -6,7 +6,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyLinxies&theme=bear&layout=compact)
 
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AndyLinxies&theme=bear&layout=compact)
-
+https://wakatime.com/@AndyLinxies?rank=me&page=1&board=d21a3af2-9164-4900-982e-39fea378e131
 <!--
 AndyLinxies/AndyLinxies is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
