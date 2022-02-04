@@ -5,7 +5,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyLinxies&theme=bear&layout=compact)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andylinxies&theme=bear&layout=compact&v=2)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AndyLinxies&theme=bear&layout=compact&v=2)
 
 
 ![willianrod's wakatime stats](https://wakatime.com/badge/user/9240ca89-14a5-463a-a3bc-1211aaf63e00.svg)
